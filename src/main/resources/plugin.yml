@@ -1,0 +1,5 @@
+name: ${project.name}
+version: ${project.version}
+main: ${project.groupId}.${project.artifactId}
+author: MinecraftDorado
+api-version: 1.13

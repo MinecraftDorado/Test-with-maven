@@ -1,0 +1,5 @@
+name: Tests
+version: 1.0.0
+main: dev.minecraftdorado.Tests.MainClass.MainClass
+author: MinecraftDorado
+api-version: 1.13
